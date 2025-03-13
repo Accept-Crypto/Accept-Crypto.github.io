@@ -1,3 +1,3 @@
-# AcceptCrypto.github.io
+# Accept-Crypto.github.io
 
 hello
