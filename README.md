@@ -1,0 +1,1 @@
+# AcceptCrypto.github.io
